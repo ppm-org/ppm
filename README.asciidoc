@@ -11,7 +11,7 @@ It has long discussion on the security hole on package management tool (e.g. npm
 
 == Mechanism
 
-The content is stored on IPFS. Importing from legacy system (e.g. npm) will also be implemented.
+The content is stored on link:https://ipfs.io/ipfs/QmQrX8hka2BtNHa8N8arAq16TCVx5qHcb46c5yPewRycLm/[IPFS]. Importing from legacy system (e.g. npm) will also be implemented.
 
 == Functions
 
@@ -30,3 +30,5 @@ The content is stored on IPFS. Importing from legacy system (e.g. npm) will also
 
 == Similar Tools
 . link:https://github.com/nginnever/ippm[IPPM - Interplanetary Package Manager]
+. link:https://github.com/elsehow/gx-js[gx-js - distributed package manager for javascript]
+. link:https://github.com/whyrusleeping/gx[gx - The language-agnostic, universal package manager]
