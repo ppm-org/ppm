@@ -27,3 +27,6 @@ The content is stored on IPFS. Importing from legacy system (e.g. npm) will also
 
 - change config file from JSON to link:https://github.com/beenotung/bon[BON]
 - build rich cli interface using link:https://github.com/urfave/cli[urfave/cli]
+
+== Similar Tools
+. link:https://github.com/nginnever/ippm[IPPM - Interplanetary Package Manager]
