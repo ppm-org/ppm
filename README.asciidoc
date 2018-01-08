@@ -19,9 +19,11 @@ The content is stored on IPFS. Importing from legacy system (e.g. npm) will also
 - [ ] add dependency
 - [ ] download dependency
 - [ ] publish package
-- [ ] version management
+- [ ] basic version management
+- [ ] semver support
 - [ ] import from package.json
 
 == Todo
 
 - change config file from JSON to link:https://github.com/beenotung/bon[BON]
+- build rich cli interface using link:https://github.com/urfave/cli[urfave/cli]
