@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"github.com/ppm-org/ppm/cmd"
 	"os"
 	"path/filepath"
 )
@@ -34,24 +35,15 @@ func routeCommand(args []string) {
 	switch args[0] {
 	case "init":
 	case "i":
-		cmdInit()
+		cmd.Init(args[1:])
 		break
 	case "add":
 	case "a":
-		cmdAdd()
+		cmd.Add(args[1:])
 		break
 	case "download":
 	case "dl":
-		cmdDownload()
+		cmd.Download(args[1:])
 		break
 	}
-}
-func cmdInit() {
-	fmt.Println("init not impl")
-}
-func cmdAdd() {
-	fmt.Println("add not impl")
-}
-func cmdDownload() {
-	fmt.Println("download not impl")
 }
