@@ -1,0 +1,12 @@
+= ppm
+
+persistent package manager
+
+== Motivation
+
+Reference: https://github.com/npm/registry/issues/255
+It has long discussion on the security hole on package management tool (e.g. npm). This tool attempt to solve it.
+
+== Mechanism
+
+The content is stored on IPFS. Importing from legacy system (e.g. npm) will also be implemented.
