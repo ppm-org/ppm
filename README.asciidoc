@@ -21,3 +21,7 @@ The content is stored on IPFS. Importing from legacy system (e.g. npm) will also
 - [ ] publish package
 - [ ] version management
 - [ ] import from package.json
+
+== Todo
+
+- change config file from JSON to link:https://github.com/beenotung/bon[BON]
