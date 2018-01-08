@@ -12,3 +12,12 @@ It has long discussion on the security hole on package management tool (e.g. npm
 == Mechanism
 
 The content is stored on IPFS. Importing from legacy system (e.g. npm) will also be implemented.
+
+== Functions
+
+- [ ] init config file
+- [ ] add dependency
+- [ ] download dependency
+- [ ] publish package
+- [ ] version management
+- [ ] import from package.json
