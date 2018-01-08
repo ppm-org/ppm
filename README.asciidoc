@@ -4,8 +4,10 @@ persistent package manager
 
 == Motivation
 
-Reference: https://github.com/npm/registry/issues/255
 It has long discussion on the security hole on package management tool (e.g. npm). This tool attempt to solve it.
+
+- Github Issue: https://github.com/npm/registry/issues/255
+- Hacker News: https://news.ycombinator.com/item?id=16087024
 
 == Mechanism
 
