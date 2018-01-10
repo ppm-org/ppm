@@ -8,6 +8,7 @@ It has long discussion on the security hole on package management tool (e.g. npm
 
 - Github Issue: https://github.com/npm/registry/issues/255
 - Hacker News: https://news.ycombinator.com/item?id=16087024
+- A chilling story: https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
 
 == Mechanism
 
