@@ -4,11 +4,17 @@ persistent package manager
 
 == Motivation
 
+=== Security
+
 It has long discussion on the security hole on package management tool (e.g. npm). This tool attempt to solve it.
 
 - Github Issue: https://github.com/npm/registry/issues/255
 - Hacker News: https://news.ycombinator.com/item?id=16087024
 - A chilling story: https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
+
+=== Availability
+
+I tried to use yarn in Mainland China, failed (but npm works ...).
 
 == Mechanism
 
